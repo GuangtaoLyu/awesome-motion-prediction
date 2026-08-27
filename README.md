@@ -15,12 +15,12 @@ A curated, auto-updated list of human motion prediction / forecasting papers.
 ## Stochastic & Probabilistic Prediction
 
 1. **EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion**, Curreli, 2026, [arXiv](https://arxiv.org/abs/2607.10984)
-2. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**, Lu, ICCV 2026, [ICCV](https://openreview.net/forum?id=uxTQeKAUh5)
-3. **MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction**, Tokoro, WACV 2026
-4. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**, Sun, ECCV 2025, [ECCV](https://link.springer.com/10.1007/978-3-031-73036-8_2)
-5. **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**, Curreli, 2025, [arXiv](https://arxiv.org/abs/2501.06035)
-6. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**, Yu, 2025, [arXiv](https://arxiv.org/abs/2508.01592)
-7. **WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction**, Gao, NeurIPS 2025
+2. **MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction**, Tokoro, WACV 2026
+3. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**, Lu, ICCV 2025, [ICCV](https://openreview.net/forum?id=uxTQeKAUh5)
+4. **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**, Curreli, 2025, [arXiv](https://arxiv.org/abs/2501.06035)
+5. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**, Yu, 2025, [arXiv](https://arxiv.org/abs/2508.01592)
+6. **WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction**, Gao, NeurIPS 2025
+7. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**, Sun, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-73036-8_2)
 8. **DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction**, Yu, 2024, [arXiv](https://arxiv.org/abs/2409.00014)
 9. **SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction**, Zhang, AAAI 2024
 10. **Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**, Tang, CVPR 2024
@@ -39,16 +39,16 @@ A curated, auto-updated list of human motion prediction / forecasting papers.
 5. **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**, Wan, 2025, [arXiv](https://arxiv.org/abs/2507.07515)
 6. **Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**, Shimbo, 2025, [arXiv](https://arxiv.org/abs/2505.07301)
 7. **HVIS: A Human-like Vision and Inference System for Human Motion Prediction**, Lyu, 2025, [arXiv](https://arxiv.org/abs/2502.16913)
-8. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**, Xu, ECCV 2025, [ECCV](https://link.springer.com/10.1007/978-3-031-72664-4_4)
-9. **NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction**, Wei, ECCV 2025, [ECCV](https://link.springer.com/10.1007/978-3-031-72784-9_23)
-10. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**, Valls Mascaró, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
-11. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**, Wei, CVPR 2024
-12. **GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**, Wang, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28375)
-13. **HumMUSS: Human Motion Understanding using State Space Models**, Mondal, 2024, [arXiv](https://arxiv.org/abs/2404.10880)
-14. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**, Sun, CVPR 2024
-15. **Motion Diversification Networks**, Kim, CVPR 2024, [CVPR](https://ieeexplore.ieee.org/document/10657457/)
-16. **MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**, Feng, 2024, [arXiv](https://arxiv.org/abs/2411.16964)
-17. **Multi-Transmotion: Pre-trained Model for Human Motion Prediction**, Gao, 2024, [arXiv](https://arxiv.org/abs/2411.02673)
+8. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**, Valls Mascaró, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
+9. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**, Wei, CVPR 2024
+10. **GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**, Wang, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28375)
+11. **HumMUSS: Human Motion Understanding using State Space Models**, Mondal, 2024, [arXiv](https://arxiv.org/abs/2404.10880)
+12. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**, Sun, CVPR 2024
+13. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**, Xu, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-72664-4_4)
+14. **Motion Diversification Networks**, Kim, CVPR 2024, [CVPR](https://ieeexplore.ieee.org/document/10657457/)
+15. **MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**, Feng, 2024, [arXiv](https://arxiv.org/abs/2411.16964)
+16. **Multi-Transmotion: Pre-trained Model for Human Motion Prediction**, Gao, 2024, [arXiv](https://arxiv.org/abs/2411.02673)
+17. **NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction**, Wei, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-72784-9_23)
 18. **Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**, Gu, 2024, [arXiv](https://arxiv.org/abs/2310.14907)
 19. **HumanMAC: Masked Motion Completion for Human Motion Prediction**, Chen, 2023, [arXiv](https://arxiv.org/abs/2302.03665)
 20. **Back to MLP: A Simple Baseline for Human Motion Prediction**, Guo, 2022, [arXiv](https://arxiv.org/abs/2207.01567)

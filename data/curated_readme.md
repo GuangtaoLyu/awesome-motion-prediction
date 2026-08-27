@@ -7,7 +7,6 @@
 1. **MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction**  ,   Tokoro et al.  ,
 2. **KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction**  ,   Wu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2603.21327-b31b1b.svg)](https://arxiv.org/abs/2603.21327)
 3. **EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion**  ,   Curreli et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2607.10984-b31b1b.svg)](https://arxiv.org/abs/2607.10984)
-4. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**  ,   Lu et al.  ,   [Paper](https://openreview.net/forum?id=uxTQeKAUh5)
 
 
 ## 2025
@@ -16,17 +15,15 @@
 7. **SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**  ,   Chanda et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2507.11910-b31b1b.svg)](https://arxiv.org/abs/2507.11910)
 8. **Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**  ,   Taketsugu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2503.17267-b31b1b.svg)](https://arxiv.org/abs/2503.17267)
 9. **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**  ,   Curreli et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2501.06035-b31b1b.svg)](https://arxiv.org/abs/2501.06035)
-10. **NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction**  ,   Wei et al.  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72784-9_23)
-11. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**  ,   Xu et al.  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72664-4_4)
 12. **HVIS: A Human-like Vision and Inference System for Human Motion Prediction**  ,   Lyu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2502.16913-b31b1b.svg)](https://arxiv.org/abs/2502.16913)
 13. **Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2503.23381-b31b1b.svg)](https://arxiv.org/abs/2503.23381)
-14. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**  ,   Sun et al.  ,   [Paper](https://link.springer.com/10.1007/978-3-031-73036-8_2)
 15. **CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**  ,   Maeda et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2505.13140-b31b1b.svg)](https://arxiv.org/abs/2505.13140)
 16. **Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**  ,   Shimbo et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2505.07301-b31b1b.svg)](https://arxiv.org/abs/2505.07301)
 17. **UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**  ,   Nilavadi et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2505.14866-b31b1b.svg)](https://arxiv.org/abs/2505.14866)
 18. **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**  ,   Wan et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2507.07515-b31b1b.svg)](https://arxiv.org/abs/2507.07515)
 19. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**  ,   Yu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2508.01592-b31b1b.svg)](https://arxiv.org/abs/2508.01592)
 20. **Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction**  ,   Hu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2511.14237-b31b1b.svg)](https://arxiv.org/abs/2511.14237)
+4. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**  ,   Lu et al.  ,   ICCV 2025  ,   [Paper](https://openreview.net/forum?id=uxTQeKAUh5)
 
 
 ## 2024
@@ -43,6 +40,9 @@
 31. **DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction**  ,   Yu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2409.00014-b31b1b.svg)](https://arxiv.org/abs/2409.00014)
 32. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**  ,   Wei et al.  ,
 33. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**  ,   Valls Mascaró et al.  ,   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
+10. **NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction**  ,   Wei et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72784-9_23)
+11. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**  ,   Xu et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72664-4_4)
+14. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**  ,   Sun et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-73036-8_2)
 
 
 ## 2023

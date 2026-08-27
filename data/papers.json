@@ -1,563 +1,563 @@
 {
- "papers": [
-  {
-   "title": "MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction",
-   "authors": [
-    "Tokoro"
-   ],
-   "year": 2026,
-   "venue": "WACV",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction",
-   "authors": [
-    "Wu"
-   ],
-   "year": 2026,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2603.21327",
-   "arxiv_id": "2603.21327",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion",
-   "authors": [
-    "Curreli"
-   ],
-   "year": 2026,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2607.10984",
-   "arxiv_id": "2607.10984",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction",
-   "authors": [
-    "Lu"
-   ],
-   "year": 2026,
-   "venue": "ICCV",
-   "url": "https://openreview.net/forum?id=uxTQeKAUh5",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction",
-   "authors": [
-    "Gao"
-   ],
-   "year": 2025,
-   "venue": "NeurIPS",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling",
-   "authors": [
-    "Capellera"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2503.18589",
-   "arxiv_id": "2503.18589",
-   "source": "seed",
-   "category": "Trajectory & Multi-Agent Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring",
-   "authors": [
-    "Chanda"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2507.11910",
-   "arxiv_id": "2507.11910",
-   "source": "seed",
-   "category": "Datasets & Benchmarks",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment",
-   "authors": [
-    "Taketsugu"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2503.17267",
-   "arxiv_id": "2503.17267",
-   "source": "seed",
-   "category": "Trajectory & Multi-Agent Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction",
-   "authors": [
-    "Curreli"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2501.06035",
-   "arxiv_id": "2501.06035",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction",
-   "authors": [
-    "Wei"
-   ],
-   "year": 2025,
-   "venue": "ECCV",
-   "url": "https://link.springer.com/10.1007/978-3-031-72784-9_23",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction",
-   "authors": [
-    "Xu"
-   ],
-   "year": 2025,
-   "venue": "ECCV",
-   "url": "https://link.springer.com/10.1007/978-3-031-72664-4_4",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "HVIS: A Human-like Vision and Inference System for Human Motion Prediction",
-   "authors": [
-    "Lyu"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2502.16913",
-   "arxiv_id": "2502.16913",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation",
-   "authors": [
-    "Wang"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2503.23381",
-   "arxiv_id": "2503.23381",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion",
-   "authors": [
-    "Sun"
-   ],
-   "year": 2025,
-   "venue": "ECCV",
-   "url": "https://link.springer.com/10.1007/978-3-031-73036-8_2",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow",
-   "authors": [
-    "Maeda"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2505.13140",
-   "arxiv_id": "2505.13140",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos",
-   "authors": [
-    "Shimbo"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2505.07301",
-   "arxiv_id": "2505.07301",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction",
-   "authors": [
-    "Nilavadi"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2505.14866",
-   "arxiv_id": "2505.14866",
-   "source": "seed",
-   "category": "Trajectory & Multi-Agent Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction",
-   "authors": [
-    "Wan"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2507.07515",
-   "arxiv_id": "2507.07515",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction",
-   "authors": [
-    "Yu"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2508.01592",
-   "arxiv_id": "2508.01592",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction",
-   "authors": [
-    "Hu"
-   ],
-   "year": 2025,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2511.14237",
-   "arxiv_id": "2511.14237",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic",
-   "authors": [
-    "Tang"
-   ],
-   "year": 2024,
-   "venue": "CVPR",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction",
-   "authors": [
-    "Zhang"
-   ],
-   "year": 2024,
-   "venue": "AAAI",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction",
-   "authors": [
-    "Gu"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2310.14907",
-   "arxiv_id": "2310.14907",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Multi-Transmotion: Pre-trained Model for Human Motion Prediction",
-   "authors": [
-    "Gao"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2411.02673",
-   "arxiv_id": "2411.02673",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning",
-   "authors": [
-    "Feng"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2411.16964",
-   "arxiv_id": "2411.16964",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Diversification Networks",
-   "authors": [
-    "Kim"
-   ],
-   "year": 2024,
-   "venue": "CVPR",
-   "url": "https://ieeexplore.ieee.org/document/10657457/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Massively Multi-Person 3D Human Motion Forecasting with Scene Context",
-   "authors": [
-    "Mueller"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2409.12189",
-   "arxiv_id": "2409.12189",
-   "source": "seed",
-   "category": "Trajectory & Multi-Agent Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning",
-   "authors": [
-    "Sun"
-   ],
-   "year": 2024,
-   "venue": "CVPR",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "HumMUSS: Human Motion Understanding using State Space Models",
-   "authors": [
-    "Mondal"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2404.10880",
-   "arxiv_id": "2404.10880",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction",
-   "authors": [
-    "Wang"
-   ],
-   "year": 2024,
-   "venue": "AAAI",
-   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28375",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction",
-   "authors": [
-    "Yu"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2409.00014",
-   "arxiv_id": "2409.00014",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency",
-   "authors": [
-    "Wei"
-   ],
-   "year": 2024,
-   "venue": "CVPR",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis",
-   "authors": [
-    "Valls Mascaró"
-   ],
-   "year": 2024,
-   "venue": "AAAI",
-   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28333",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "HumanMAC: Masked Motion Completion for Human Motion Prediction",
-   "authors": [
-    "Chen"
-   ],
-   "year": 2023,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2302.03665",
-   "arxiv_id": "2302.03665",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction",
-   "authors": [
-    "Wei"
-   ],
-   "year": 2023,
-   "venue": "AAAI",
-   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25754",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning",
-   "authors": [
-    "Xu"
-   ],
-   "year": 2023,
-   "venue": "CVPR",
-   "url": "https://ieeexplore.ieee.org/document/10205349/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Trajectory & Multi-Agent Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction",
-   "authors": [
-    "Barquero"
-   ],
-   "year": 2023,
-   "venue": "ICCV",
-   "url": "https://ieeexplore.ieee.org/document/10377771/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Weakly-supervised Action Transition Learning for Stochastic Human Motion Prediction",
-   "authors": [
-    "Mao"
-   ],
-   "year": 2022,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2205.15608",
-   "arxiv_id": "2205.15608",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space",
-   "authors": [
-    "Dang"
-   ],
-   "year": 2022,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2207.07351",
-   "arxiv_id": "2207.07351",
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Back to MLP: A Simple Baseline for Human Motion Prediction",
-   "authors": [
-    "Guo"
-   ],
-   "year": 2022,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2207.01567",
-   "arxiv_id": "2207.01567",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction",
-   "authors": [
-    "Yuan"
-   ],
-   "year": 2020,
-   "venue": "ECCV",
-   "url": "https://link.springer.com/10.1007/978-3-030-58545-7_20",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stochastic & Probabilistic Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Towards Natural and Accurate Future Motion Prediction of Humans and Animals",
-   "authors": [
-    "Liu"
-   ],
-   "year": 2019,
-   "venue": "CVPR",
-   "url": "https://ieeexplore.ieee.org/document/8953858/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Structured Prediction Helps 3D Human Motion Modelling",
-   "authors": [
-    "Aksan"
-   ],
-   "year": 2019,
-   "venue": "ICCV",
-   "url": "https://ieeexplore.ieee.org/document/9009821/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  }
- ]
+  "papers": [
+    {
+      "title": "MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction",
+      "authors": [
+        "Tokoro"
+      ],
+      "year": 2026,
+      "venue": "WACV",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction",
+      "authors": [
+        "Wu"
+      ],
+      "year": 2026,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.21327",
+      "arxiv_id": "2603.21327",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion",
+      "authors": [
+        "Curreli"
+      ],
+      "year": 2026,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2607.10984",
+      "arxiv_id": "2607.10984",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction",
+      "authors": [
+        "Lu"
+      ],
+      "year": 2025,
+      "venue": "ICCV",
+      "url": "https://openreview.net/forum?id=uxTQeKAUh5",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction",
+      "authors": [
+        "Gao"
+      ],
+      "year": 2025,
+      "venue": "NeurIPS",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling",
+      "authors": [
+        "Capellera"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.18589",
+      "arxiv_id": "2503.18589",
+      "source": "seed",
+      "category": "Trajectory & Multi-Agent Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring",
+      "authors": [
+        "Chanda"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2507.11910",
+      "arxiv_id": "2507.11910",
+      "source": "seed",
+      "category": "Datasets & Benchmarks",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment",
+      "authors": [
+        "Taketsugu"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.17267",
+      "arxiv_id": "2503.17267",
+      "source": "seed",
+      "category": "Trajectory & Multi-Agent Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction",
+      "authors": [
+        "Curreli"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2501.06035",
+      "arxiv_id": "2501.06035",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction",
+      "authors": [
+        "Wei"
+      ],
+      "year": 2024,
+      "venue": "ECCV",
+      "url": "https://link.springer.com/10.1007/978-3-031-72784-9_23",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction",
+      "authors": [
+        "Xu"
+      ],
+      "year": 2024,
+      "venue": "ECCV",
+      "url": "https://link.springer.com/10.1007/978-3-031-72664-4_4",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "HVIS: A Human-like Vision and Inference System for Human Motion Prediction",
+      "authors": [
+        "Lyu"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2502.16913",
+      "arxiv_id": "2502.16913",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation",
+      "authors": [
+        "Wang"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.23381",
+      "arxiv_id": "2503.23381",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion",
+      "authors": [
+        "Sun"
+      ],
+      "year": 2024,
+      "venue": "ECCV",
+      "url": "https://link.springer.com/10.1007/978-3-031-73036-8_2",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow",
+      "authors": [
+        "Maeda"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.13140",
+      "arxiv_id": "2505.13140",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos",
+      "authors": [
+        "Shimbo"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.07301",
+      "arxiv_id": "2505.07301",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction",
+      "authors": [
+        "Nilavadi"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.14866",
+      "arxiv_id": "2505.14866",
+      "source": "seed",
+      "category": "Trajectory & Multi-Agent Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction",
+      "authors": [
+        "Wan"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2507.07515",
+      "arxiv_id": "2507.07515",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction",
+      "authors": [
+        "Yu"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.01592",
+      "arxiv_id": "2508.01592",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction",
+      "authors": [
+        "Hu"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2511.14237",
+      "arxiv_id": "2511.14237",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic",
+      "authors": [
+        "Tang"
+      ],
+      "year": 2024,
+      "venue": "CVPR",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction",
+      "authors": [
+        "Zhang"
+      ],
+      "year": 2024,
+      "venue": "AAAI",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction",
+      "authors": [
+        "Gu"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2310.14907",
+      "arxiv_id": "2310.14907",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Multi-Transmotion: Pre-trained Model for Human Motion Prediction",
+      "authors": [
+        "Gao"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2411.02673",
+      "arxiv_id": "2411.02673",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning",
+      "authors": [
+        "Feng"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2411.16964",
+      "arxiv_id": "2411.16964",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Motion Diversification Networks",
+      "authors": [
+        "Kim"
+      ],
+      "year": 2024,
+      "venue": "CVPR",
+      "url": "https://ieeexplore.ieee.org/document/10657457/",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Massively Multi-Person 3D Human Motion Forecasting with Scene Context",
+      "authors": [
+        "Mueller"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2409.12189",
+      "arxiv_id": "2409.12189",
+      "source": "seed",
+      "category": "Trajectory & Multi-Agent Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning",
+      "authors": [
+        "Sun"
+      ],
+      "year": 2024,
+      "venue": "CVPR",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "HumMUSS: Human Motion Understanding using State Space Models",
+      "authors": [
+        "Mondal"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2404.10880",
+      "arxiv_id": "2404.10880",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction",
+      "authors": [
+        "Wang"
+      ],
+      "year": 2024,
+      "venue": "AAAI",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28375",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction",
+      "authors": [
+        "Yu"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2409.00014",
+      "arxiv_id": "2409.00014",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency",
+      "authors": [
+        "Wei"
+      ],
+      "year": 2024,
+      "venue": "CVPR",
+      "url": "",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis",
+      "authors": [
+        "Valls Mascaró"
+      ],
+      "year": 2024,
+      "venue": "AAAI",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28333",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "HumanMAC: Masked Motion Completion for Human Motion Prediction",
+      "authors": [
+        "Chen"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2302.03665",
+      "arxiv_id": "2302.03665",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction",
+      "authors": [
+        "Wei"
+      ],
+      "year": 2023,
+      "venue": "AAAI",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25754",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning",
+      "authors": [
+        "Xu"
+      ],
+      "year": 2023,
+      "venue": "CVPR",
+      "url": "https://ieeexplore.ieee.org/document/10205349/",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Trajectory & Multi-Agent Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction",
+      "authors": [
+        "Barquero"
+      ],
+      "year": 2023,
+      "venue": "ICCV",
+      "url": "https://ieeexplore.ieee.org/document/10377771/",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Weakly-supervised Action Transition Learning for Stochastic Human Motion Prediction",
+      "authors": [
+        "Mao"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2205.15608",
+      "arxiv_id": "2205.15608",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space",
+      "authors": [
+        "Dang"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2207.07351",
+      "arxiv_id": "2207.07351",
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Back to MLP: A Simple Baseline for Human Motion Prediction",
+      "authors": [
+        "Guo"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2207.01567",
+      "arxiv_id": "2207.01567",
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction",
+      "authors": [
+        "Yuan"
+      ],
+      "year": 2020,
+      "venue": "ECCV",
+      "url": "https://link.springer.com/10.1007/978-3-030-58545-7_20",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Stochastic & Probabilistic Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Towards Natural and Accurate Future Motion Prediction of Humans and Animals",
+      "authors": [
+        "Liu"
+      ],
+      "year": 2019,
+      "venue": "CVPR",
+      "url": "https://ieeexplore.ieee.org/document/8953858/",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    },
+    {
+      "title": "Structured Prediction Helps 3D Human Motion Modelling",
+      "authors": [
+        "Aksan"
+      ],
+      "year": 2019,
+      "venue": "ICCV",
+      "url": "https://ieeexplore.ieee.org/document/9009821/",
+      "arxiv_id": null,
+      "source": "seed",
+      "category": "Deterministic & Short-term Prediction",
+      "added": "2026-08-27"
+    }
+  ]
 }
