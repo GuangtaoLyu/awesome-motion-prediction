@@ -1,0 +1,41 @@
+{
+  "display_name": "Awesome Motion Prediction",
+  "description": "A curated, auto-updated list of human motion prediction / forecasting papers.",
+  "year_from": 2015,
+  "must_include": [
+    "human motion",
+    "motion prediction",
+    "motion forecasting",
+    "future motion"
+  ],
+  "queries": {
+    "arxiv": [
+      "human motion prediction",
+      "human motion forecasting",
+      "motion prediction"
+    ],
+    "dblp": [
+      "human motion prediction",
+      "motion forecasting",
+      "human motion forecasting"
+    ],
+    "s2": [
+      "human motion prediction",
+      "motion forecasting",
+      "3d human motion prediction"
+    ],
+    "crossref": [
+      "human motion prediction",
+      "motion forecasting"
+    ]
+  },
+  "taxonomy": [
+    "Stochastic & Probabilistic Prediction",
+    "Deterministic & Short-term Prediction",
+    "Trajectory & Multi-Agent Prediction",
+    "Scene- & Interaction-Aware Prediction",
+    "Datasets & Benchmarks",
+    "Surveys"
+  ],
+  "default_category": "Deterministic & Short-term Prediction"
+}
