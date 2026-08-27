@@ -6,7 +6,7 @@
     "Tokoro"
    ],
    "year": 2026,
-   "venue": "",
+   "venue": "WACV",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -45,7 +45,7 @@
     "Lu"
    ],
    "year": 2026,
-   "venue": "OpenReview",
+   "venue": "ICCV",
    "url": "https://openreview.net/forum?id=uxTQeKAUh5",
    "arxiv_id": null,
    "source": "seed",
@@ -58,7 +58,7 @@
     "Gao"
    ],
    "year": 2025,
-   "venue": "",
+   "venue": "NeurIPS",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -123,7 +123,7 @@
     "Wei"
    ],
    "year": 2025,
-   "venue": "LNCS",
+   "venue": "ECCV",
    "url": "https://link.springer.com/10.1007/978-3-031-72784-9_23",
    "arxiv_id": null,
    "source": "seed",
@@ -136,7 +136,7 @@
     "Xu"
    ],
    "year": 2025,
-   "venue": "LNCS",
+   "venue": "ECCV",
    "url": "https://link.springer.com/10.1007/978-3-031-72664-4_4",
    "arxiv_id": null,
    "source": "seed",
@@ -175,7 +175,7 @@
     "Sun"
    ],
    "year": 2025,
-   "venue": "LNCS",
+   "venue": "ECCV",
    "url": "https://link.springer.com/10.1007/978-3-031-73036-8_2",
    "arxiv_id": null,
    "source": "seed",
@@ -266,7 +266,7 @@
     "Tang"
    ],
    "year": 2024,
-   "venue": "",
+   "venue": "CVPR",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -279,7 +279,7 @@
     "Zhang"
    ],
    "year": 2024,
-   "venue": "",
+   "venue": "AAAI",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -331,7 +331,7 @@
     "Kim"
    ],
    "year": 2024,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/10657457/",
    "arxiv_id": null,
    "source": "seed",
@@ -357,7 +357,7 @@
     "Sun"
    ],
    "year": 2024,
-   "venue": "",
+   "venue": "CVPR",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -409,7 +409,7 @@
     "Wei"
    ],
    "year": 2024,
-   "venue": "",
+   "venue": "CVPR",
    "url": "",
    "arxiv_id": null,
    "source": "seed",
@@ -461,7 +461,7 @@
     "Xu"
    ],
    "year": 2023,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/10205349/",
    "arxiv_id": null,
    "source": "seed",
@@ -474,7 +474,7 @@
     "Barquero"
    ],
    "year": 2023,
-   "venue": "IEEE",
+   "venue": "ICCV",
    "url": "https://ieeexplore.ieee.org/document/10377771/",
    "arxiv_id": null,
    "source": "seed",
@@ -526,7 +526,7 @@
     "Yuan"
    ],
    "year": 2020,
-   "venue": "LNCS",
+   "venue": "ECCV",
    "url": "https://link.springer.com/10.1007/978-3-030-58545-7_20",
    "arxiv_id": null,
    "source": "seed",
@@ -539,7 +539,7 @@
     "Liu"
    ],
    "year": 2019,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/8953858/",
    "arxiv_id": null,
    "source": "seed",
@@ -552,7 +552,7 @@
     "Aksan"
    ],
    "year": 2019,
-   "venue": "IEEE",
+   "venue": "ICCV",
    "url": "https://ieeexplore.ieee.org/document/9009821/",
    "arxiv_id": null,
    "source": "seed",
