@@ -265,9 +265,9 @@
       "authors": [
         "Tang"
       ],
-      "year": 2024,
+      "year": 2025,
       "venue": "CVPR",
-      "url": "",
+      "url": "https://doi.org/10.1109/cvpr52734.2025.00182",
       "arxiv_id": null,
       "source": "seed",
       "category": "Stochastic & Probabilistic Prediction",
@@ -278,9 +278,9 @@
       "authors": [
         "Zhang"
       ],
-      "year": 2024,
+      "year": 2026,
       "venue": "AAAI",
-      "url": "",
+      "url": "https://doi.org/10.1609/aaai.v40i21.38865",
       "arxiv_id": null,
       "source": "seed",
       "category": "Stochastic & Probabilistic Prediction",
@@ -356,9 +356,9 @@
       "authors": [
         "Sun"
       ],
-      "year": 2024,
+      "year": 2025,
       "venue": "CVPR",
-      "url": "",
+      "url": "https://doi.org/10.1109/cvpr52734.2025.00666",
       "arxiv_id": null,
       "source": "seed",
       "category": "Deterministic & Short-term Prediction",
@@ -408,9 +408,9 @@
       "authors": [
         "Wei"
       ],
-      "year": 2024,
+      "year": 2025,
       "venue": "CVPR",
-      "url": "",
+      "url": "https://doi.org/10.1109/cvpr52734.2025.00180",
       "arxiv_id": null,
       "source": "seed",
       "category": "Deterministic & Short-term Prediction",
@@ -475,7 +475,7 @@
       ],
       "year": 2023,
       "venue": "ICCV",
-      "url": "https://ieeexplore.ieee.org/document/10377771/",
+      "url": "https://doi.org/10.1109/iccv51070.2023.00220",
       "arxiv_id": null,
       "source": "seed",
       "category": "Stochastic & Probabilistic Prediction",

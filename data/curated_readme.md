@@ -7,6 +7,7 @@
 1. **MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction**  ,   Tokoro et al.  ,
 2. **KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction**  ,   Wu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2603.21327-b31b1b.svg)](https://arxiv.org/abs/2603.21327)
 3. **EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion**  ,   Curreli et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2607.10984-b31b1b.svg)](https://arxiv.org/abs/2607.10984)
+22. **SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction**  ,   Zhang et al.  ,   AAAI 2026  ,
 
 
 ## 2025
@@ -24,21 +25,20 @@
 19. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**  ,   Yu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2508.01592-b31b1b.svg)](https://arxiv.org/abs/2508.01592)
 20. **Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction**  ,   Hu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2511.14237-b31b1b.svg)](https://arxiv.org/abs/2511.14237)
 4. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**  ,   Lu et al.  ,   ICCV 2025  ,   [Paper](https://openreview.net/forum?id=uxTQeKAUh5)
+21. **Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**  ,   Tang et al.  ,   CVPR 2025  ,
+28. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**  ,   Sun et al.  ,   CVPR 2025  ,
+32. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**  ,   Wei et al.  ,   CVPR 2025  ,
 
 
 ## 2024
-21. **Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**  ,   Tang et al.  ,
-22. **SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction**  ,   Zhang et al.  ,
 23. **Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**  ,   Gu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2310.14907-b31b1b.svg)](https://arxiv.org/abs/2310.14907)
 24. **Multi-Transmotion: Pre-trained Model for Human Motion Prediction**  ,   Gao et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.02673-b31b1b.svg)](https://arxiv.org/abs/2411.02673)
 25. **MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**  ,   Feng et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.16964-b31b1b.svg)](https://arxiv.org/abs/2411.16964)
 26. **Motion Diversification Networks**  ,   Kim et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10657457/)
 27. **Massively Multi-Person 3D Human Motion Forecasting with Scene Context**  ,   Mueller et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2409.12189-b31b1b.svg)](https://arxiv.org/abs/2409.12189)
-28. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**  ,   Sun et al.  ,
 29. **HumMUSS: Human Motion Understanding using State Space Models**  ,   Mondal et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2404.10880-b31b1b.svg)](https://arxiv.org/abs/2404.10880)
 30. **GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**  ,   Wang et al.  ,   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28375)
 31. **DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction**  ,   Yu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2409.00014-b31b1b.svg)](https://arxiv.org/abs/2409.00014)
-32. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**  ,   Wei et al.  ,
 33. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**  ,   Valls Mascaró et al.  ,   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
 10. **NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction**  ,   Wei et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72784-9_23)
 11. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**  ,   Xu et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-72664-4_4)
@@ -49,7 +49,7 @@
 34. **HumanMAC: Masked Motion Completion for Human Motion Prediction**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2302.03665-b31b1b.svg)](https://arxiv.org/abs/2302.03665)
 35. **Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction**  ,   Wei et al.  ,   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25754)
 36. **EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning**  ,   Xu et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10205349/)
-37. **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**  ,   Barquero et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10377771/)
+37. **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**  ,   Barquero et al.  ,   ICCV 2023  ,   [Paper](https://ieeexplore.ieee.org/document/10377771/)
 
 
 ## 2022

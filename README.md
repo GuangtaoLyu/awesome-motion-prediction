@@ -16,15 +16,15 @@ A curated, auto-updated list of human motion prediction / forecasting papers.
 
 1. **EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion**, Curreli, 2026, [arXiv](https://arxiv.org/abs/2607.10984)
 2. **MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction**, Tokoro, WACV 2026
-3. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**, Lu, ICCV 2025, [ICCV](https://openreview.net/forum?id=uxTQeKAUh5)
-4. **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**, Curreli, 2025, [arXiv](https://arxiv.org/abs/2501.06035)
-5. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**, Yu, 2025, [arXiv](https://arxiv.org/abs/2508.01592)
-6. **WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction**, Gao, NeurIPS 2025
-7. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**, Sun, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-73036-8_2)
-8. **DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction**, Yu, 2024, [arXiv](https://arxiv.org/abs/2409.00014)
-9. **SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction**, Zhang, AAAI 2024
-10. **Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**, Tang, CVPR 2024
-11. **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**, Barquero, ICCV 2023, [ICCV](https://ieeexplore.ieee.org/document/10377771/)
+3. **SPARD: Single-step Inference with Adaptive Sampling in Residual Diffusion for Human Motion Prediction**, Zhang, AAAI 2026, [AAAI](https://doi.org/10.1609/aaai.v40i21.38865)
+4. **KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction**, Lu, ICCV 2025, [ICCV](https://openreview.net/forum?id=uxTQeKAUh5)
+5. **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**, Curreli, 2025, [arXiv](https://arxiv.org/abs/2501.06035)
+6. **STCN: A Spatio-temporal Continuous Network for Stochastic 3D Human Motion Prediction**, Yu, 2025, [arXiv](https://arxiv.org/abs/2508.01592)
+7. **Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**, Tang, CVPR 2025, [CVPR](https://doi.org/10.1109/cvpr52734.2025.00182)
+8. **WaveAR: Wavelet-Aware Continuous Autoregressive Diffusion for Accurate Human Motion Prediction**, Gao, NeurIPS 2025
+9. **CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion**, Sun, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-73036-8_2)
+10. **DivDiff: A Conditional Diffusion Model for Diverse Human Motion Prediction**, Yu, 2024, [arXiv](https://arxiv.org/abs/2409.00014)
+11. **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**, Barquero, ICCV 2023, [ICCV](https://doi.org/10.1109/iccv51070.2023.00220)
 12. **Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction**, Wei, AAAI 2023, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25754)
 13. **Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space**, Dang, 2022, [arXiv](https://arxiv.org/abs/2207.07351)
 14. **Weakly-supervised Action Transition Learning for Stochastic Human Motion Prediction**, Mao, 2022, [arXiv](https://arxiv.org/abs/2205.15608)
@@ -33,17 +33,17 @@ A curated, auto-updated list of human motion prediction / forecasting papers.
 ## Deterministic & Short-term Prediction
 
 1. **KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction**, Wu, 2026, [arXiv](https://arxiv.org/abs/2603.21327)
-2. **Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction**, Hu, 2025, [arXiv](https://arxiv.org/abs/2511.14237)
-3. **CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**, Maeda, 2025, [arXiv](https://arxiv.org/abs/2505.13140)
-4. **Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**, Wang, 2025, [arXiv](https://arxiv.org/abs/2503.23381)
-5. **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**, Wan, 2025, [arXiv](https://arxiv.org/abs/2507.07515)
-6. **Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**, Shimbo, 2025, [arXiv](https://arxiv.org/abs/2505.07301)
-7. **HVIS: A Human-like Vision and Inference System for Human Motion Prediction**, Lyu, 2025, [arXiv](https://arxiv.org/abs/2502.16913)
-8. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**, Valls Mascaró, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
-9. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**, Wei, CVPR 2024
-10. **GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**, Wang, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28375)
-11. **HumMUSS: Human Motion Understanding using State Space Models**, Mondal, 2024, [arXiv](https://arxiv.org/abs/2404.10880)
-12. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**, Sun, CVPR 2024
+2. **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**, Wei, CVPR 2025, [CVPR](https://doi.org/10.1109/cvpr52734.2025.00180)
+3. **Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction**, Hu, 2025, [arXiv](https://arxiv.org/abs/2511.14237)
+4. **CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**, Maeda, 2025, [arXiv](https://arxiv.org/abs/2505.13140)
+5. **Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**, Wang, 2025, [arXiv](https://arxiv.org/abs/2503.23381)
+6. **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**, Wan, 2025, [arXiv](https://arxiv.org/abs/2507.07515)
+7. **Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**, Shimbo, 2025, [arXiv](https://arxiv.org/abs/2505.07301)
+8. **HVIS: A Human-like Vision and Inference System for Human Motion Prediction**, Lyu, 2025, [arXiv](https://arxiv.org/abs/2502.16913)
+9. **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**, Sun, CVPR 2025, [CVPR](https://doi.org/10.1109/cvpr52734.2025.00666)
+10. **A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**, Valls Mascaró, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28333)
+11. **GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**, Wang, AAAI 2024, [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28375)
+12. **HumMUSS: Human Motion Understanding using State Space Models**, Mondal, 2024, [arXiv](https://arxiv.org/abs/2404.10880)
 13. **Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**, Xu, ECCV 2024, [ECCV](https://link.springer.com/10.1007/978-3-031-72664-4_4)
 14. **Motion Diversification Networks**, Kim, CVPR 2024, [CVPR](https://ieeexplore.ieee.org/document/10657457/)
 15. **MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**, Feng, 2024, [arXiv](https://arxiv.org/abs/2411.16964)
