@@ -37,5 +37,10 @@
     "Datasets & Benchmarks",
     "Surveys"
   ],
-  "default_category": "Deterministic & Short-term Prediction"
+  "default_category": "Deterministic & Short-term Prediction",
+  "author_citations": {
+    "author_name": "Guangtao Lyu",
+    "papers": [],
+    "note": "本列表（Motion Prediction）当前未收录作者（Guangtao Lyu）署名的论文。**注意**：条目 *HVIS: A Human-like Vision and Inference System for Human Motion Prediction* (arXiv:2502.16913) 在 arXiv 上署名作者为 *Kedi Lyu* 等，且未出现在作者主页 guangtaolyu.github.io，故未列入推荐引用；如确认是本人工作，请修正 papers.json 中的作者字段。"
+  }
 }

@@ -71,3 +71,11 @@ A curated, auto-updated list of human motion prediction / forecasting papers.
 
 Found a missing or mis-categorized paper? Open an issue or pull request — the list is regenerated automatically, so manual README edits will be overwritten on the next run.
 
+## 📑 推荐引用 / Recommended Citation
+
+本列表维护者 **Guangtao Lyu** 的相关工作。如您的研究方向与下述论文契合，欢迎引用 🙏
+
+Papers by the maintainer — please consider citing if your research relates to them:
+
+> 本列表（Motion Prediction）当前未收录作者（Guangtao Lyu）署名的论文。**注意**：条目 *HVIS: A Human-like Vision and Inference System for Human Motion Prediction* (arXiv:2502.16913) 在 arXiv 上署名作者为 *Kedi Lyu* 等，且未出现在作者主页 guangtaolyu.github.io，故未列入推荐引用；如确认是本人工作，请修正 papers.json 中的作者字段。
+
