@@ -1738,19 +1738,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction",
-   "authors": [
-    "Wan"
-   ],
-   "year": 2025,
-   "venue": "2025 6th International Conference on Intelligent Computing and Human-Computer Interaction (ICHCI)",
-   "url": "https://arxiv.org/abs/2507.07515",
-   "arxiv_id": "2507.07515",
-   "source": "seed",
-   "category": "Deterministic & Short-term Prediction",
-   "added": "2026-08-27"
-  },
-  {
    "title": "A Spatio-Temporal Continuous Network for Stochastic 3D Human Motion Prediction",
    "authors": [
     "Hua Yu",
@@ -1825,6 +1812,51 @@
    "source": "crossref",
    "category": "Deterministic & Short-term Prediction",
    "added": "2026-08-31"
+  },
+  {
+   "title": "Human Motion Prediction Using Knowledge Distillation with Incremental Learning",
+   "authors": [
+    "Zilaing Ren",
+    "Ziyang Zheng",
+    "Hui Zhao",
+    "Xiangyang Gao",
+    "Qieshi Zhang"
+   ],
+   "year": 2025,
+   "venue": "",
+   "url": "https://doi.org/10.2139/ssrn.5205502",
+   "arxiv_id": null,
+   "source": "crossref",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Hybrid Shift-Diagonal State-Space Modeling for Decoupled Motion Forecasting",
+   "authors": [
+    "Yongpeng Shen",
+    "Yingjuan Tang",
+    "Runlong Shi"
+   ],
+   "year": 2026,
+   "venue": "",
+   "url": "https://doi.org/10.2139/ssrn.7397587",
+   "arxiv_id": null,
+   "source": "crossref",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction",
+   "authors": [
+    "Wan"
+   ],
+   "year": 2025,
+   "venue": "2025 6th International Conference on Intelligent Computing and Human-Computer Interaction (ICHCI)",
+   "url": "https://arxiv.org/abs/2507.07515",
+   "arxiv_id": "2507.07515",
+   "source": "seed",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-08-27"
   }
  ]
 }
