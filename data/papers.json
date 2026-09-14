@@ -1846,6 +1846,528 @@
    "added": "2026-09-07"
   },
   {
+   "title": "On Human Motion Prediction Using Recurrent Neural Networks",
+   "authors": [
+    "Julieta Martinez",
+    "Michael J. Black",
+    "J. Romero"
+   ],
+   "year": 2017,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/7f065002afcb90240a41f05f138269c5675b9805",
+   "arxiv_id": "1705.02445",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Learning Trajectory Dependencies for Human Motion Prediction",
+   "authors": [
+    "Wei Mao",
+    "Miaomiao Liu",
+    "M. Salzmann",
+    "Hongdong Li"
+   ],
+   "year": 2019,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/bad2b0aa0a001de221ca86838372acfb99e68e49",
+   "arxiv_id": "1908.05436",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "A Physical Human–Robot Interaction Framework for Trajectory Adaptation Based on Human Motion Prediction and Adaptive Impedance Control",
+   "authors": [
+    "Jing Luo",
+    "Chaoyi Zhang",
+    "Weiyong Si",
+    "Yiming Jiang",
+    "Chenguang Yang",
+    "Chao Zeng"
+   ],
+   "year": 2025,
+   "venue": "IEEE Transactions on Automation Science and Engineering",
+   "url": "https://www.semanticscholar.org/paper/fc9687564f25444379e3c2f2dbc82225d0990053",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Scene- & Interaction-Aware Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "History Repeats Itself: Human Motion Prediction via Motion Attention",
+   "authors": [
+    "Wei Mao",
+    "Miaomiao Liu",
+    "M. Salzmann"
+   ],
+   "year": 2020,
+   "venue": "European Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/4a00f94559efeca391d4e9352a0a72baacb2bc7e",
+   "arxiv_id": "2007.11755",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction",
+   "authors": [
+    "Tiezheng Ma",
+    "Yongwei Nie",
+    "Chengjiang Long",
+    "Qing Zhang",
+    "Guiqing Li"
+   ],
+   "year": 2022,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/5cdb23a749859590687cfc2cad97e82d20e98954",
+   "arxiv_id": "2203.16051",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+   "authors": [
+    "Lingwei Dang",
+    "Yongwei Nie",
+    "Chengjiang Long",
+    "Qing Zhang",
+    "Guiqing Li"
+   ],
+   "year": 2021,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/6abbe8b89bd96d1a2c4b21ebd7a88259cc937913",
+   "arxiv_id": "2108.07152",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Incorporating Physics Principles for Precise Human Motion Prediction",
+   "authors": [
+    "Yufei Zhang",
+    "Jeffrey O. Kephart",
+    "Qiang Ji"
+   ],
+   "year": 2024,
+   "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/57f6fbf078b03d84fd4ec03babd22541007e113b",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "GIMO: Gaze-Informed Human Motion Prediction in Context",
+   "authors": [
+    "Yang Zheng",
+    "Yan-Chao Yang",
+    "Kaichun Mo",
+    "Jiaman Li",
+    "Tao Yu",
+    "Yebin Liu",
+    "Karen Liu",
+    "L. Guibas"
+   ],
+   "year": 2022,
+   "venue": "European Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/39498d2d9b15a31a4d31fedd85b76d1ebc2b1218",
+   "arxiv_id": "2204.09443",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "AMHGCN: Adaptive multi-level hypergraph convolution network for human motion prediction",
+   "authors": [
+    "Jinkai Li",
+    "Jinghua Wang",
+    "Lian Wu",
+    "Xin Wang",
+    "Xiaoling Luo",
+    "Yong Xu"
+   ],
+   "year": 2024,
+   "venue": "Neural Networks",
+   "url": "https://www.semanticscholar.org/paper/ae6439ef5edbb29f0d91ef5db7e9336fd423d0bb",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Dynamic scenario-enhanced diverse human motion prediction network for proactive human–robot collaboration in customized assembly tasks",
+   "authors": [
+    "Pengfei Ding",
+    "Jie Zhang",
+    "Pai Zheng",
+    "Peng Zhang",
+    "Bo Fei",
+    "Ziqi Xu"
+   ],
+   "year": 2024,
+   "venue": "Journal of Intelligent Manufacturing",
+   "url": "https://www.semanticscholar.org/paper/9b4fb2082708fd8011e7816fcd0f91b0ab8a3fc9",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stochastic & Probabilistic Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+   "authors": [
+    "Maosen Li",
+    "Siheng Chen",
+    "Yangheng Zhao",
+    "Ya Zhang",
+    "Yanfeng Wang",
+    "Qi Tian"
+   ],
+   "year": 2020,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/1478c3c0225368419f68aabc6b67033531d3b4c1",
+   "arxiv_id": "2003.08802",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction",
+   "authors": [
+    "Xuehao Gao",
+    "Yang Yang",
+    "Yang Wu",
+    "Shaoyi Du",
+    "Guo-Jun Qi"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Image Processing",
+   "url": "https://www.semanticscholar.org/paper/4ca0c2978cf36d31920f2f0c2e0c7372a1b55125",
+   "arxiv_id": "2405.18700",
+   "source": "s2",
+   "category": "Scene- & Interaction-Aware Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Generating Smooth Pose Sequences for Diverse Human Motion Prediction",
+   "authors": [
+    "Wei Mao",
+    "Miaomiao Liu",
+    "M. Salzmann"
+   ],
+   "year": 2021,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/f8044b5582d0326cdaa7b84acdc50ffaa6d33592",
+   "arxiv_id": "2108.08422",
+   "source": "s2",
+   "category": "Stochastic & Probabilistic Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "3D Skeleton-Based Human Motion Prediction Using Dynamic Multi-Scale Spatiotemporal Graph Recurrent Neural Networks",
+   "authors": [
+    "Mayank Lovanshi",
+    "Vivek Tiwari",
+    "Swati Jain"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+   "url": "https://www.semanticscholar.org/paper/054c0c59e50cfd79c0c8bdc04e97c9fd85c5cd8e",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Adaptive Spatial-Temporal Graph-Mixer for Human Motion Prediction",
+   "authors": [
+    "Shu-Bo Yang",
+    "Haolun Li",
+    "Chi-Man Pun",
+    "Chun Du",
+    "Hao Gao"
+   ],
+   "year": 2024,
+   "venue": "IEEE Signal Processing Letters",
+   "url": "https://www.semanticscholar.org/paper/d73d0c2def5bfd1d950405a9f9890b0ae8150b3e",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Integrating Uncertainty-Aware Human Motion Prediction Into Graph-Based Manipulator Motion Planning",
+   "authors": [
+    "Wansong Liu",
+    "Kareem A. Eltouny",
+    "Sibo Tian",
+    "Xiao Liang",
+    "Minghui Zheng"
+   ],
+   "year": 2024,
+   "venue": "IEEE/ASME transactions on mechatronics",
+   "url": "https://www.semanticscholar.org/paper/62ac415ee4a424e52989ab6594203a590449f427",
+   "arxiv_id": "2405.09779",
+   "source": "s2",
+   "category": "Stochastic & Probabilistic Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+   "authors": [
+    "Chongyang Zhong",
+    "Lei Hu",
+    "Zihao Zhang",
+    "Yongjing Ye",
+    "Shi-hong Xia"
+   ],
+   "year": 2022,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/4b82fc1198d7b4ee0b4dd62890ccd9fde96140d6",
+   "arxiv_id": "2203.01474",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Enhancing Robotic Collaborative Tasks Through Contextual Human Motion Prediction and Intention Inference",
+   "authors": [
+    "Javier Laplaza",
+    "Francesc Moreno",
+    "Alberto Sanfeliu"
+   ],
+   "year": 2024,
+   "venue": "International Journal of Social Robotics",
+   "url": "https://www.semanticscholar.org/paper/10b845774e376ea9d0afc92bc3330d9481114ac2",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Scene- & Interaction-Aware Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Dynamic Dense Graph Convolutional Network for Skeleton-Based Human Motion Prediction",
+   "authors": [
+    "Xinshun Wang",
+    "Wanying Zhang",
+    "Can Wang",
+    "Yuan Gao",
+    "Mengyuan Liu"
+   ],
+   "year": 2023,
+   "venue": "IEEE Transactions on Image Processing",
+   "url": "https://www.semanticscholar.org/paper/36a80413df3c851df026a62eca782d15f69f5231",
+   "arxiv_id": "2311.17408",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "PoseTron: Enabling Close-Proximity Human-Robot Collaboration Through Multi-human Motion Prediction",
+   "authors": [
+    "M. S. Yasar",
+    "Md. Mofijul Islam",
+    "Tariq Iqbal"
+   ],
+   "year": 2024,
+   "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
+   "url": "https://www.semanticscholar.org/paper/3294f92f35ead64b92b17dfa626f66ba74798425",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Trajectory & Multi-Agent Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction",
+   "authors": [
+    "Zhenyu Lou",
+    "Qiongjie Cui",
+    "Tuo Wang",
+    "Zhenbo Song",
+    "Luo-Ming Zhang",
+    "Cheng Cheng",
+    "Haofan Wang",
+    "Xu Tang",
+    "Huaxia Li",
+    "Hong Zhou"
+   ],
+   "year": 2024,
+   "venue": "Neural Information Processing Systems",
+   "url": "https://www.semanticscholar.org/paper/3384c2554c6bbd6e8bae973b1171ede41f70b511",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Scene- & Interaction-Aware Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Self-Supervised Pretraining Based on Noise-Free Motion Reconstruction and Semantic-Aware Contrastive Learning for Human Motion Prediction",
+   "authors": [
+    "Qin Li",
+    "Yong Wang"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+   "url": "https://www.semanticscholar.org/paper/6458835a1c5c4e66e89daef81630bb53096f503e",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Fusion of Temporal Transformer and Spatial Graph Convolutional Network for 3-D Skeleton-Parts-Based Human Motion Prediction",
+   "authors": [
+    "Mayank Lovanshi",
+    "Vivek Tiwari",
+    "Rajesh Ingle",
+    "Swati Jain"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Human-Machine Systems",
+   "url": "https://www.semanticscholar.org/paper/f12649c0919f217aef293abd02ea88be5148efd1",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Human Motion Prediction Under Unexpected Perturbation",
+   "authors": [
+    "Jiangbei Yue",
+    "Baiyi Li",
+    "Julien Pettr'e",
+    "Armin Seyfried",
+    "He Wang"
+   ],
+   "year": 2024,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/007687efab0acb65f25a46acf96e1f074b63ea77",
+   "arxiv_id": "2403.15891",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Long-term Human Motion Prediction with Scene Context",
+   "authors": [
+    "Zhe Cao",
+    "Hang Gao",
+    "K. Mangalam",
+    "Qi-Zhi Cai",
+    "Minh Vo",
+    "J. Malik"
+   ],
+   "year": 2020,
+   "venue": "European Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/6e8b522ee29c232026ecf228ed1896bc65f019b4",
+   "arxiv_id": "2007.03672",
+   "source": "s2",
+   "category": "Scene- & Interaction-Aware Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "CHAMP: A Large-Scale Dataset for Skeleton-Based Composite HumAn Motion Prediction",
+   "authors": [
+    "Wanying Zhang",
+    "Mengyuan Liu",
+    "Xinshun Wang",
+    "Shen Zhao",
+    "Can Wang"
+   ],
+   "year": 2024,
+   "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+   "url": "https://www.semanticscholar.org/paper/a0b9c8f5528d260a7a87806540da88db9accf383",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Datasets & Benchmarks",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "MSTP-Net: Multiscale Spatio-Temporal Parallel Networks for Human Motion Prediction",
+   "authors": [
+    "Lujing Chen",
+    "R. Liu",
+    "Wei Zhang",
+    "Yaqing Hou",
+    "Qiang Zhang",
+    "Dongsheng Zhou"
+   ],
+   "year": 2024,
+   "venue": "IEEE transactions on consumer electronics",
+   "url": "https://www.semanticscholar.org/paper/b864ea568253ca8584f8849df10b026a7b5d9314",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "TFAN: Twin-Flow Axis Normalization for Human Motion Prediction",
+   "authors": [
+    "Xin Du",
+    "Yong Wang",
+    "Zongying Li",
+    "Sheng Yan",
+    "Mengyuan Liu"
+   ],
+   "year": 2024,
+   "venue": "IEEE Signal Processing Letters",
+   "url": "https://www.semanticscholar.org/paper/3e01721c76dcc3aa42d352d773f23a7be93910b9",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction",
+   "authors": [
+    "Chenxin Xu",
+    "R. Tan",
+    "Yuhong Tan",
+    "Si-Heng Chen",
+    "Xinchao Wang",
+    "Yanfeng Wang"
+   ],
+   "year": 2023,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/03fc1b34e096a5de5c6ace38320373f32b1e3d85",
+   "arxiv_id": "2308.08942",
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Task-Constrained Motion Planning Considering Uncertainty-Informed Human Motion Prediction for Human–Robot Collaborative Disassembly",
+   "authors": [
+    "Wansong Liu",
+    "Xiao Liang",
+    "Minghui Zheng"
+   ],
+   "year": 2023,
+   "venue": "IEEE/ASME transactions on mechatronics",
+   "url": "https://www.semanticscholar.org/paper/10c88c4a7385cca55026e4aa252a2e7e69acbcc9",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stochastic & Probabilistic Prediction",
+   "added": "2026-09-14"
+  },
+  {
+   "title": "Bidirectional Transformer GAN for Long-term Human Motion Prediction",
+   "authors": [
+    "Mengyi Zhao",
+    "Hao Tang",
+    "Pan Xie",
+    "Shuling Dai",
+    "N. Sebe",
+    "Wei Wang"
+   ],
+   "year": 2023,
+   "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
+   "url": "https://www.semanticscholar.org/paper/fca9f7ae7b7b4592f2154109c1dd0c22116ede3c",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Deterministic & Short-term Prediction",
+   "added": "2026-09-14"
+  },
+  {
    "title": "GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction",
    "authors": [
     "Wan"
