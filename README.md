@@ -2,7 +2,7 @@
 
 A curated, auto-updated list of human motion prediction / forecasting papers.
 
-*Last updated: 2026-09-21 | Total papers: 156*
+*Last updated: 2026-09-28 | Total papers: 156*
 
 > 🤖 Auto-updated weekly by GitHub Actions (multi-source: arXiv + DBLP + Semantic Scholar + Crossref). Entries are auto-categorized by topic.
 
